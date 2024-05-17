@@ -5,19 +5,6 @@
 </p>
 
 <p align="center">
-  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
-    <!-- Circle -->
-    <circle cx="50" cy="50" r="40" stroke="#4CAF50" stroke-width="4" fill="none">
-      <animate attributeName="r" from="40" to="30" dur="1s" repeatCount="indefinite" />
-      <animate attributeName="stroke" values="#4CAF50;#FFC107;#2196F3" dur="3s" repeatCount="indefinite" />
-    </circle>
-    <!-- Text -->
-    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#4CAF50" font-size="16">Loading...</text>
-  </svg>
-</p>
-
-
-<p align="center">
   <a href="https://github.com/NavinduV/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=NavinduV&show_icons=true&theme=radical" alt="NavinduV's GitHub stats" />
   </a>
