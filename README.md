@@ -4,14 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Developer;Full-Stack+Web+Developer;Always+learning+new+things&center=true&width=500&height=50">
 </p>
 
-<p align="center">
-  <a href="https://github.com/NavinduV">
-    <img src="https://komarev.com/ghpvc/?username=NavinduV&label=Profile%20views&color=0e75b6&style=flat" alt="NavinduV" />
-  </a>
-  <a href="https://github.com/NavinduV?tab=followers">
-    <img src="https://img.shields.io/github/followers/NavinduV?label=Followers&style=social" alt="followers-count">
-  </a>
-</p>
 
 <p align="center">
   <a href="https://github.com/NavinduV/github-readme-stats">
@@ -30,9 +22,8 @@
 ### About Me
 
 - 👀 I’m interested in **Web Development**.
-- 🌱 I’m currently learning **Next.js**.
 - 💬 Ask me about **MERN stack**.
-- 📫 How to reach me: [navindu@example.com](mailto:navindu@example.com).
+- 📫 How to reach me: [navinduvirajitha2001@gmail.com](mailto:navinduvirajitha2001@gmail.com).
 
 ---
 
