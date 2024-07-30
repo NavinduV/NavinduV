@@ -4,6 +4,7 @@
 
 <p align="left" width="100%"><img src="https://github-profile-trophy.vercel.app/?username=NavinduV" alt="NavinduV" /> </p>
 
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Developer;Full-Stack+Web+Developer;Always+learning+new+things&center=true&width=500&height=50">
 </p>
