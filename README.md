@@ -1,4 +1,4 @@
-![Github-navindu](my-gif.gif)
+<p align="center">![Github-navindu](my-gif.gif)</p>
 
 <h1 align="center">Hi there, I'm NavinduV 👋</h1>
 <p align="center">
@@ -9,11 +9,8 @@
 
 <p align="left" width="100%"><img src="https://github-profile-trophy.vercel.app/?username=NavinduV" alt="NavinduV" /> </p>
 
-
 <p align="center">
-  <a href="https://github.com/NavinduV/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=NavinduV&show_icons=true&theme=radical" alt="NavinduV's GitHub stats" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavinduV&theme=radical" alt="NavinduV" />
 </p>
 
 <p align="center">
@@ -60,10 +57,8 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavinduV&theme=radical" alt="NavinduV" />
+  <a href="https://github.com/NavinduV/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=NavinduV&show_icons=true&theme=radical" alt="NavinduV's GitHub stats" />
+  </a>
 </p>
 
-<!---
-NavinduV/NavinduV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
