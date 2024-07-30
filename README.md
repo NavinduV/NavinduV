@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavinduV&label=Profile%20views&color=0e75b6&style=flat" alt="cyborlk" /> </p>
 
-<p align="left" width="100%"><img src="https://github-profile-trophy.vercel.app/?username=NavinduV" alt="NavinduV" /> </p>
+<p align="left" width="100%"><img width="12px" height="12px" src="https://github-profile-trophy.vercel.app/?username=NavinduV" alt="NavinduV" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Developer;Full-Stack+Web+Developer;Always+learning+new+things&center=true&width=500&height=50">
