@@ -1,6 +1,6 @@
 ![Github-navindu](my-gif.gif)
 
-<h1 align="center">Hi there, I'm NavinduV 👋<img src="my-logo.png" alt="My-logo" /></h1>
+<h1 align="center">Hi there, I'm NavinduV 👋<img width="24px" height="24px" src="my-logo.png" alt="My-logo" /></h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Developer;Full-Stack+Web+Developer;Always+learning+new+things&center=true&width=500&height=50">
 </p>
