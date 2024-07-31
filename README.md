@@ -1,4 +1,6 @@
-![Github-navindu](my-gif-2.gif)
+<p align="center">
+  <img src="my-gif-2.gif" alt="Github-navindu" />
+</p>
 
 <h1 align="center">Hi there, I'm NavinduV 👋</h1>
 <p align="center"><img width="54px" height="54px" src="my-logo.png" alt="My-logo" /></p>
