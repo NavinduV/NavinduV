@@ -1,4 +1,4 @@
-![Github-navindu](my-gif.gif)
+![Github-navindu](my-gif-2.gif)
 
 <h1 align="center">Hi there, I'm NavinduV 👋</h1>
 <p align="center"><img width="54px" height="54px" src="my-logo.png" alt="My-logo" /></p>
