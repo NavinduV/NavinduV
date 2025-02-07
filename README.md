@@ -16,10 +16,6 @@
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=NavinduV" alt="NavinduV" /> </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NavinduV&theme=radical" alt="NavinduV" />
-</p>
-
-<p align="center">
   <a href="https://github.com/NavinduV/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduV&layout=compact&theme=radical" alt="Top Languages" />
   </a>
