@@ -13,7 +13,7 @@
 ---
 
 ### Hi, I'm NavinduV 👋
-👀 I’m passionate about **Web Development** and love building interactive applications.  
+- 👀 passionate about **Web Development** and love building interactive applications.  
 - 💬 Ask me about **JavaScript and full-stack development**.  
 - 🌱 Always learning and exploring new technologies to improve my skills. 
 
