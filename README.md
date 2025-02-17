@@ -2,36 +2,37 @@
   <img src="my-gif-2.gif" alt="Github-navindu" />
 </p>
 
-<h1 align="center">Hi there, I'm NavinduV 👋</h1>
+---
+
 <p align="center"><img width="54px" height="54px" src="my-logo.svg" alt="My-logo" /></p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=MERN+Developer;Full-Stack+Web+Developer;Always+learning+new+things&center=true&width=500&height=50">
 </p>
 
+---
+
+### Hi, I'm NavinduV 👋
+👀 I’m passionate about **Web Development** and love building interactive applications.  
+- 💬 Ask me about **JavaScript and full-stack development**.  
+- 🌱 Always learning and exploring new technologies to improve my skills. 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavinduV&label=Profile%20views&color=0e75b6&style=flat" alt="NavinduV" /> </p>
 
-<br><br>
-
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=NavinduV" alt="NavinduV" /> </p>
+---
 
 ### 🏆 GitHub Trophies:
 ![NavinduV GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NavinduV&theme=dracula)
 
 
-<p align="center">
-  <a href="https://github.com/NavinduV/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduV&layout=compact&theme=radical" alt="Top Languages" />
-  </a>
-</p>
-
 ---
 
-### About Me
-
-- 👀 I’m interested in **Web Development**.
-- 💬 Ask me about **MERN stack**.
-- 📫 How to reach me: [navinduvirajitha2001@gmail.com](mailto:navinduvirajitha2001@gmail.com).
+### 📫 Reach Me:
+- Portfolio: [Navindu Virajitha](https://navinduv.vercel.app/)
+- LinkedIn: [Navindu Virajitha](https://www.linkedin.com/in/navindu-virajitha)
+- Medium: [Navindu Virajitha](https://medium.com/@navindu-virajitha)
+- Email: [navindugunawardhana.pro@gmail.com](mailto:navindugunawardhana.pro@gmail.com)
 
 ---
 
@@ -49,6 +50,12 @@
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
+
+<p align="center">
+  <a href="https://github.com/NavinduV/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduV&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
+</p>
 
 ---
 
