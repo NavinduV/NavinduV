@@ -15,6 +15,10 @@
 
 <p align="left"><img src="https://github-profile-trophy.vercel.app/?username=NavinduV" alt="NavinduV" /> </p>
 
+### 🏆 GitHub Trophies:
+![NavinduV GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NavinduV&theme=dracula)
+
+
 <p align="center">
   <a href="https://github.com/NavinduV/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavinduV&layout=compact&theme=radical" alt="Top Languages" />
