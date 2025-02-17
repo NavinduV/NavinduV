@@ -22,13 +22,13 @@
 
 ---
 
-### 🏆 GitHub Trophies:
+### 🏆 GitHub Trophies
 ![NavinduV GitHub Trophies](https://github-profile-trophy.vercel.app/?username=NavinduV&theme=dracula)
 
 
 ---
 
-### 📫 Reach Me:
+### 📫 Reach Me
 - Portfolio: [Navindu Virajitha](https://navinduv.vercel.app/)
 - LinkedIn: [Navindu Virajitha](https://www.linkedin.com/in/navindu-virajitha)
 - Medium: [Navindu Virajitha](https://medium.com/@navindu-virajitha)
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
